@@ -1,0 +1,6 @@
+.env
+node_modules
+images
+boykisser.pem
+ignore
+osu/userData.txt
