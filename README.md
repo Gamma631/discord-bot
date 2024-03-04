@@ -37,7 +37,9 @@ Gives results for the attribute "planting" with a value of at least 3.
 
 
 # osu!
-For osu commands, frame your message as "osu [command]". The slash commands start with /osu
+For osu commands, frame your message as "osu [command]". 
+
+The slash commands start with /osu
 ## **Commands**
 ### User Search
 Searches for a given user.
