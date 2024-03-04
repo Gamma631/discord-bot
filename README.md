@@ -4,7 +4,7 @@ This is a discord bot made for my own personal use for a couple games that I pla
 All commands are available in text and slash commands, as listed below.
 
 # Palworld
-For Palworld commands, start your message with "pw [command]", "pal [command]", or "palworld [command]".
+For Palworld commands, frame your message as "pw [command]", "pal [command]", or "palworld [command]".
 
 The slash commands start with /pw
 
@@ -37,7 +37,7 @@ Gives results for the attribute "planting" with a value of at least 3.
 
 
 # osu!
-Interact with the bot with "osu [command]". The slash commands start with /osu
+For osu commands, frame your message as "osu [command]". The slash commands start with /osu
 ## **Commands**
 ### User Search
 Searches for a given user.
