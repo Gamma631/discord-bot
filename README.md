@@ -21,7 +21,7 @@ If there are multiple pals with the same name, then it will return the first pal
 ### Pal Search - Number
 Returns information on a pal based on a given number.
 
-Variation of the name search, but with the pal number. For example,
+Variation of the name search, but with the pal number. Syntax of this command is "pw [number]" For example,
 
 "pw 1" would return information about Lamball, as that is the pal with number 1.
 
